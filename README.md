@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @MandeepLamba
-- 👀 I’m using Python as my current programming language.
-- 😇 I'm very confident in major cloud(AWS, GCP, AZURE).
-- 🌱 I use IaC extensively.
-- 💞️ I’m looking to collaborate on Android Application
-- 📫 **Instagram:** [mandeep_lamba](https://www.instagram.com/mandeep_lamba/); **Email:** mandeeplamba225@gmail.com
+- 👨‍💻 I’m a Software Engineer with 4+ years of experience in Python (Flask, FastAPI, Django, Dash, PySpark)
+- ☁️ I work extensively with AWS, GCP, and Azure, building cloud-native and data-driven applications
+- ⚙️ I use Infrastructure as Code (CloudFormation, Terraform, CDK) for scalable, repeatable deployments
+- 🚀 I’m passionate about DevOps, automation, and data workflows
+- 🤝 I’m looking to collaborate on backend systems, data pipelines, and cloud architecture projects
+- 📫 **Instagram:** [mandeep_lamba](https://www.instagram.com/mandeep_lamba/);
 
 <!---
 MandeepLamba/MandeepLamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
